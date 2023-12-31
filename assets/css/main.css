@@ -4400,7 +4400,7 @@ html.show-preloader body {
   transform: translateY(0px);
 }
 .gallery-active .swiper-scrollbar {
-  background: rgba(69, 248, 130, 0.49);
+  background: #0abde3;
 }
 .gallery-active.swiper-container-horizontal > .swiper-scrollbar {
   border-radius: 0;
